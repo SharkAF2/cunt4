@@ -1,0 +1,25 @@
+{
+	"group_target": 1398120166,
+	"group_source": 1490302444,
+	"from_date_active": "20201114",
+	"accounts": [
+		{
+			"phone": "+6285784670658",
+			"api_id": 2026118,
+			"api_hash": "a002f6032e246abe4f06fc4f3d9cf044"
+		}
+		,
+		{
+			"phone": "+6285784670676",
+			"api_id": 2087868,
+			"api_hash": "d0178e329b1df4155d88820740c666c8"
+		}
+		,
+		{
+			"phone": "+6285784670603",
+			"api_id": 2839833,
+			"api_hash": "2f910c35e786503c7b8d637238d48db3"
+		}
+		
+	]
+}
